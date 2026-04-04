@@ -19,6 +19,8 @@ The funnel consists of the following stages:
         - Standardising funnel stage labels
 - Ensured accurate user tracking across stages
 
+Data set used: user_events.csv
+
 **Business Questions**
 1. How can we define the e-commerce sales funnel and determine the number of users at each stage?
 2. What are the conversion rates between each stage of the funnel?
