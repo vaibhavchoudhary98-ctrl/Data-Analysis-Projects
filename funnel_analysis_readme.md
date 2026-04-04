@@ -26,29 +26,29 @@ The funnel consists of the following stages:
 5. What are the key revenue metrics such as total revenue, AOV, and revenue per visitor?
 
 **Key Findings**
-1. Funnel Distribution
+**1. Funnel Distribution**
 <img width="629" height="49" alt="{3FBBAD54-0412-4A27-9A7D-8120D85A11B8}" src="https://github.com/user-attachments/assets/15a65de2-22b4-4059-b63e-98456189392f" />
 
 _Significant drop-off observed at the top of the funnel._
 
-2. Conversion Rates
+**2. Conversion Rates**
 <img width="1035" height="52" alt="{39EA667D-E877-40D0-B0DE-94C3A7316FBE}" src="https://github.com/user-attachments/assets/472c700a-fbe4-4104-a0da-be1b278bc97d" />
 <img width="312" height="43" alt="{FF54793C-77AD-4C5E-BF5C-1D3B6090B60A}" src="https://github.com/user-attachments/assets/08256e4f-7c8d-4d00-81b2-e7e43cbde9c2" />
 
 _Strong performance in lower funnel stages._
 
-3. Traffic Source Analysis
+**3. Traffic Source Analysis**
 <img width="923" height="106" alt="{36DB723E-D8AB-444D-8F9B-598720C0667D}" src="https://github.com/user-attachments/assets/4ea154bd-df51-4cba-85ca-a4ae68f0b2a1" />
 <img width="710" height="105" alt="{CF31C560-ABA3-4091-AA0E-7C9D9DC8D38D}" src="https://github.com/user-attachments/assets/93223828-ce8a-4861-ba7c-363b93b26efc" />
 
 _Email shows the highest efficiency, while social traffic underperforms._
 
-4. Time-BAsed Analysis
+**4. Time-BAsed Analysis**
 <img width="1031" height="50" alt="{746BAF66-5F3B-4619-803D-5E89F0DBAE24}" src="https://github.com/user-attachments/assets/3b06b562-e27d-442a-8824-d836e8b68a2e" />
   
 _Users spend the most time at the decision stage (top of funnel)._
 
-5. Revenue Analysis
+**5. Revenue Analysis**
 <img width="697" height="53" alt="{678D433C-E3FB-400F-9D10-F38D57114715}" src="https://github.com/user-attachments/assets/f73830eb-5c35-44b3-a95e-ca8452d8d731" />
    
 _No repeat purchases observed (1 order per buyer)._
@@ -61,7 +61,7 @@ _No repeat purchases observed (1 order per buyer)._
 - Revenue is limited by low conversion and lack of repeat purchases
 
 **Final Recommendations**
-1. UX & Website Optimisation
+**1. UX & Website Optimisation**
 - Improve Top Funnel Conversion (Page View → Add to Cart)
 Page View → Add to Cart conversion is only 31.06%, and users spend the highest time (11.15 mins) at this stage. This indicates hesitation in product selection or weak product page experience.
 
@@ -72,7 +72,7 @@ Conversion rates from Checkout → Purchase (~80–90%) are very high, and time 
 
 Action: Avoid major changes to checkout or payment flow. Focus only on minor UX improvements if needed.
 
-2. Marketing Strategy
+**2. Marketing Strategy**
 - Reduce Dependence on Low-Converting Social Traffic
 Social media drives a significant portion of traffic but has the lowest conversion efficiency across funnel stages.
 
@@ -85,13 +85,13 @@ Action:
       - Increase investment in email marketing campaigns 
       - Capture more leads via pop-ups, sign-ups, and offers
 
-3. Revenue & Growth Strategy
+**3. Revenue & Growth Strategy**
 - Improve Revenue per Visitor
 Revenue per visitor is only 17.6, primarily due to low top-funnel conversion.
 
 Action: Focus on improving early-stage conversion (Page View → Add to Cart), which will directly increase revenue.
 
-4. Funnel Efficiency Optimisation
+**4. Funnel Efficiency Optimisation**
 - Reduce Decision Time at Product Stage
 Users spend the most time before adding items to cart, indicating decision friction.
 
