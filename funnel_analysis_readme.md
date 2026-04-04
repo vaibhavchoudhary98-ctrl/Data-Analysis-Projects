@@ -4,6 +4,7 @@ This project analyses user behaviour across an e-commerce funnel to identify dro
 The goal is to optimise the customer journey and improve overall business performance.
 
 **Funnel Stages**
+
 The funnel consists of the following stages:
 1. Page View
 2. Add to Cart
