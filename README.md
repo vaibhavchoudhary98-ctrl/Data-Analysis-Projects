@@ -1,2 +1,2 @@
-# E-commerce Funnel Analysis
+# Data Anaysis
 This repo contains data analysis projects
