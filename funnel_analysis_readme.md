@@ -1,4 +1,4 @@
-**E-commerce Funnel Analysis**
+# E-commerce Funnel Analysis
 
 This project analyses user behaviour across an e-commerce funnel to identify drop-offs, measure conversion rates, and evaluate revenue performance.
 The goal is to optimise the customer journey and improve overall business performance.
@@ -27,6 +27,7 @@ The funnel consists of the following stages:
 5. What are the key revenue metrics such as total revenue, AOV, and revenue per visitor?
 
 **Key Findings**
+
 **1. Funnel Distribution**
 
 <img width="629" height="49" alt="{3FBBAD54-0412-4A27-9A7D-8120D85A11B8}" src="https://github.com/user-attachments/assets/15a65de2-22b4-4059-b63e-98456189392f" />
@@ -66,7 +67,7 @@ _No repeat purchases observed (1 order per buyer)._
 - Users spend the most time before adding to cart
 - Revenue is limited by low conversion and lack of repeat purchases
 
-**Final Recommendations**
+# Final Recommendations
 **1. UX & Website Optimisation**
 - Improve Top Funnel Conversion (Page View → Add to Cart)
 
