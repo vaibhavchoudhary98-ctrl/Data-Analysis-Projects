@@ -68,7 +68,7 @@ _No repeat purchases observed (1 order per buyer)._
 
 **Final Recommendations**
 **1. UX & Website Optimisation**
-- Improve Top Funnel Conversion (Page View → Add to Cart)
+- Improve Top Funnel Conversion [Page View → Add to Cart]
 Page View → Add to Cart conversion is only 31.06%, and users spend the highest time (11.15 mins) at this stage. This indicates hesitation in product selection or weak product page experience.
 
 Action: Optimise product pages with better images, clear descriptions, customer reviews, and strong call-to-action (CTA). Run A/B tests on layout and messaging.
