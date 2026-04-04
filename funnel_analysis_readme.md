@@ -38,7 +38,8 @@ _Significant drop-off observed at the top of the funnel._
 _Strong performance in lower funnel stages._
 
 3. Traffic Source Analysis
-<img width="1038" height="43" alt="{658A5686-8171-4BD0-844C-455E89E927AC}" src="https://github.com/user-attachments/assets/e2680578-e6ea-4811-a76b-e354cb87e4fc" />
+<img width="923" height="106" alt="{36DB723E-D8AB-444D-8F9B-598720C0667D}" src="https://github.com/user-attachments/assets/4ea154bd-df51-4cba-85ca-a4ae68f0b2a1" />
+<img width="710" height="105" alt="{CF31C560-ABA3-4091-AA0E-7C9D9DC8D38D}" src="https://github.com/user-attachments/assets/93223828-ce8a-4861-ba7c-363b93b26efc" />
 
 _Email shows the highest efficiency, while social traffic underperforms._
 
