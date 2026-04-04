@@ -60,4 +60,42 @@ _No repeat purchases observed (1 order per buyer)._
 - Users spend the most time before adding to cart
 - Revenue is limited by low conversion and lack of repeat purchases
 
+**Final Recommendations**
+1. UX & Website Optimisation
+- Improve Top Funnel Conversion (Page View → Add to Cart)
+Page View → Add to Cart conversion is only 31.06%, and users spend the highest time (11.15 mins) at this stage. This indicates hesitation in product selection or weak product page experience.
 
+Action: Optimise product pages with better images, clear descriptions, customer reviews, and strong call-to-action (CTA). Run A/B tests on layout and messaging.
+
+- Do Not Disrupt Checkout & Payment Flow
+Conversion rates from Checkout → Purchase (~80–90%) are very high, and time to complete purchase is low (3.03 mins). This indicates a smooth and efficient payment process.
+
+Action: Avoid major changes to checkout or payment flow. Focus only on minor UX improvements if needed.
+
+2. Marketing Strategy
+- Reduce Dependence on Low-Converting Social Traffic
+Social media drives a significant portion of traffic but has the lowest conversion efficiency across funnel stages.
+
+Action: Optimise targeting and creatives for social campaigns. Shift focus from awareness to retargeting high-intent users.
+
+- Double Down on High-Converting Channels (Email & Organic)
+Email shows the highest conversion efficiency, while organic drives the highest volume of users.
+
+Action: 
+      - Increase investment in email marketing campaigns 
+      - Capture more leads via pop-ups, sign-ups, and offers
+
+3. Revenue & Growth Strategy
+- Improve Revenue per Visitor
+Revenue per visitor is only 17.6, primarily due to low top-funnel conversion.
+
+Action: Focus on improving early-stage conversion (Page View → Add to Cart), which will directly increase revenue.
+
+4. Funnel Efficiency Optimisation
+- Reduce Decision Time at Product Stage
+Users spend the most time before adding items to cart, indicating decision friction.
+
+Action:
+      - Add urgency (limited stock, offers)
+      - Highlight bestsellers and recommendations
+      - Simplify product comparison
