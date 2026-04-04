@@ -23,8 +23,8 @@ This project analyses the e-commerce funnel by tracking user movement from visit
 📈 Insights provided:
 It identifies drop-off points and highlights inefficiencies in the conversion process. It also uncovers opportunities to improve customer engagement and increase revenue through data-driven decisions.
 
-#👤 About the Author
-Hi, I’m **Vaibhav Choudhary 👋**
+# About the Author
+Hi, I’m **Vaibhav Choudhary** 👋
 
 I am a Data Analyst with a strong interest in solving real-world business problems using data. My work focuses on transforming raw data into actionable insights that support better decision-making.
 
