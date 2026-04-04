@@ -1,2 +1,2 @@
-# Data Anaylsis
+# Data Analysis
 This repo contains data analysis projects
